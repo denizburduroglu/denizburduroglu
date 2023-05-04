@@ -10,7 +10,7 @@ One of my strengths is my ability to bridge gaps between teams, customers, and o
 <br>
 **Backend:** C#, .NET, Node.js, Express.js, Sql Server, MongoDB 
 <br>
-**Tools:** Git, Webpack, Jest 
+**Tools:** Git, Azure, Postman
 <br>
 
 ### Projects
