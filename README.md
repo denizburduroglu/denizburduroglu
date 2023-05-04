@@ -16,5 +16,5 @@ One of my strengths is my ability to bridge gaps between teams, customers, and o
 ### Projects
 I'm passionate about working on interesting and challenging projects, always seeking to expand my skill set and learn new technologies to create innovative solutions. Recently, I've been exploring React and Next.js, trying to gain more experience with new technologies and design concepts.
 
-###Let's Connect
+### Let's Connect
 I'm always interested in hearing about new opportunities and collaborating with other developers. Feel free to connect with me on LinkedIn or check out my GitHub profile to see more of my work.
